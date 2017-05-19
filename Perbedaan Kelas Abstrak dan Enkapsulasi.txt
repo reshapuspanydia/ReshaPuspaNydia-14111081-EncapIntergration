@@ -1,0 +1,4 @@
+Perbedaan kelas abstrak dan kelas enkapsulasi..
+pada kelas abstrak dibutuhkan nya inheritance untuk mengimplementasikan method yang sama bagi kelas turunan abstrak,
+abstrak class digunakan untuk sebagai struktur bagi penurunan kelasnya.Sedangkan kelas enkapsulasi kelas turunannya,-
+yaitu kontekstual dengan dimodifikasi menggunkan Setter-Getter. 
